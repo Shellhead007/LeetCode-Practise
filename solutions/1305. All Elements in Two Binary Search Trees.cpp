@@ -37,3 +37,24 @@ private :
         int n1 = r1.size();
         int n2 = r2.size();
         int i = 0,j = 0, k = 0;
+        while(i < n1 && j < n2) {
+            if(r1[i] < r2[j]) {
+                res[k] = r1[i];
+                i++;
+            }
+            else {
+                res[k] = r2[j];
+                j++;
+            }
+            k++;
+        }
+        while(i < n1) {
+            res[k] = r1[i];
+            i++;k++;
+        }
+        while(j < n2) {
+            res[k] = r2[j];
+            j++;k++;
+        }
+    }
+};
