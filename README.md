@@ -1,5 +1,7 @@
 # Leetcode
 
+Here is a small repositry of my leetcode practise journey. Hope anyone find these solutions helpful.
+
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|12 ms|
