@@ -13,3 +13,4 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 |1305|[ All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/)|[C++](./solutions/1305.%20All%20Elements%20in%20Two%20Binary%20Search%20Trees.cpp)|132 ms|
 |1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C++](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.cpp)|12 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|116 ms|
+|1668|[ Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)|[C++](./solutions/1668.%20Maximum%20Repeating%20Substring.cpp)|0 ms|
