@@ -4,6 +4,7 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
+|14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./solutions/14.%20Longest%20Common%20Prefix.cpp)|4 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|12 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)|92 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[C++](./solutions/859.%20Buddy%20Strings.cpp)|4 ms|
