@@ -8,6 +8,7 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)|4 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|14 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|12 ms|
+|99|[ Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](./solutions/99.%20Recover%20Binary%20Search%20Tree.cpp)|44 ms|
 |124|[ Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)|[C++](./solutions/124.%20Binary%20Tree%20Maximum%20Path%20Sum.cpp)|40 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|80 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)|92 ms|
