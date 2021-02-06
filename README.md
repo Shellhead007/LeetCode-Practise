@@ -5,6 +5,7 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
 |14|[ Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[C++](./solutions/14.%20Longest%20Common%20Prefix.cpp)|4 ms|
+|49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|40 ms|
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)|4 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|14 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|12 ms|
