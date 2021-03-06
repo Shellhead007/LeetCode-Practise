@@ -24,6 +24,7 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 |380|[ Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./solutions/380.%20Insert%20Delete%20GetRandom%20O(1).cpp)|40 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|80 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)|92 ms|
+|703|[ Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C++](./solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)|20 ms|
 |705|[ Design HashSet](https://leetcode.com/problems/design-hashset/)|[C++](./solutions/705.%20Design%20HashSet.cpp)|88 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|184 ms|
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](./solutions/767.%20Reorganize%20String.cpp)|0 ms|
