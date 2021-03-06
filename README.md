@@ -31,6 +31,7 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|8 ms|
 |1026|[ Maximum Difference Between Node and Ancestor](https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/)|[C++](./solutions/1026.%20Maximum%20Difference%20Between%20Node%20and%20Ancestor.cpp)|4 ms|
 |1143|[ Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](./solutions/1143.%20Longest%20Common%20Subsequence.java)|19 ms|
+|1186|[ Maximum Subarray Sum with One Deletion](https://leetcode.com/problems/maximum-subarray-sum-with-one-deletion/)|[C++](./solutions/1186.%20Maximum%20Subarray%20Sum%20with%20One%20Deletion.cpp)|140 ms|
 |1249|[ Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)|[C++](./solutions/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses.cpp)|24 ms|
 |1299|[ Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[Java](./solutions/1299.%20Replace%20Elements%20with%20Greatest%20Element%20on%20Right%20Side.java)|1 ms|
 |1302|[ Deepest Leaves Sum](https://leetcode.com/problems/deepest-leaves-sum/)|[C++](./solutions/1302.%20Deepest%20Leaves%20Sum.cpp)|92 ms|
