@@ -43,5 +43,6 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 |1325|[ Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/)|[C++](./solutions/1325.%20Delete%20Leaves%20With%20a%20Given%20Value.cpp)|12 ms|
 |1337|[ The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/)|[C++](./solutions/1337.%20The%20K%20Weakest%20Rows%20in%20a%20Matrix.cpp)|4 ms|
 |1347|[ Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[C++](./solutions/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.cpp)|60 ms|
+|1381|[ Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[C++](./solutions/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.cpp)|36 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|116 ms|
 |1668|[ Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)|[C++](./solutions/1668.%20Maximum%20Repeating%20Substring.cpp)|0 ms|
