@@ -24,6 +24,7 @@ Here is a small repositry of my leetcode practise journey. Hope anyone find thes
 |380|[ Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./solutions/380.%20Insert%20Delete%20GetRandom%20O(1).cpp)|40 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|36 ms|
 |556|[ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[C++](./solutions/556.%20Next%20Greater%20Element%20III.cpp)|0 ms|
+|623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[C++](./solutions/623.%20Add%20One%20Row%20to%20Tree.cpp)|16 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|80 ms|
 |701|[ Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/)|[C++](./solutions/701.%20Insert%20into%20a%20Binary%20Search%20Tree.cpp)|92 ms|
 |703|[ Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[C++](./solutions/703.%20Kth%20Largest%20Element%20in%20a%20Stream.cpp)|20 ms|
