@@ -1,6 +1,7 @@
 # Leetcode
 
 Here is a small repositry of my leetcode practise journey. Hope anyone find these solutions helpful.
+And please visit recent post on my profile https://leetcode.com/Shellhead/ for some cool explanations of different problems
 
 | # | Title | Solution | Runtime |
 |---| ----- | -------- | ------- |
