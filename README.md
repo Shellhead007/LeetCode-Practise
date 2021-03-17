@@ -36,6 +36,7 @@ And please visit recent post on my profile https://leetcode.com/Shellhead/ for s
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](./solutions/767.%20Reorganize%20String.cpp)|0 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[C++](./solutions/859.%20Buddy%20Strings.cpp)|4 ms|
 |863|[ All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](./solutions/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.cpp)|4 ms|
+|890|[ Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[C++](./solutions/890.%20Find%20and%20Replace%20Pattern.cpp)|4 ms|
 |895|[ Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/)|[C++](./solutions/895.%20Maximum%20Frequency%20Stack.cpp)|196 ms|
 |909|[ Snakes and Ladders](https://leetcode.com/problems/snakes-and-ladders/)|[Java](./solutions/909.%20Snakes%20and%20Ladders.java)|20 ms|
 |946|[ Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/)|[C++](./solutions/946.%20Validate%20Stack%20Sequences.cpp)|8 ms|
