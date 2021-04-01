@@ -54,4 +54,5 @@ And please visit recent post on my profile https://leetcode.com/Shellhead/ for s
 |1347|[ Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[C++](./solutions/1347.%20Minimum%20Number%20of%20Steps%20to%20Make%20Two%20Strings%20Anagram.cpp)|60 ms|
 |1381|[ Design a Stack With Increment Operation](https://leetcode.com/problems/design-a-stack-with-increment-operation/)|[C++](./solutions/1381.%20Design%20a%20Stack%20With%20Increment%20Operation.cpp)|36 ms|
 |1448|[ Count Good Nodes in Binary Tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)|[C++](./solutions/1448.%20Count%20Good%20Nodes%20in%20Binary%20Tree.cpp)|116 ms|
+|1647|[ Minimum Deletions to Make Character Frequencies Unique](https://leetcode.com/problems/minimum-deletions-to-make-character-frequencies-unique/)|[C++](./solutions/1647.%20Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.cpp)|132 ms|
 |1668|[ Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)|[C++](./solutions/1668.%20Maximum%20Repeating%20Substring.cpp)|0 ms|
