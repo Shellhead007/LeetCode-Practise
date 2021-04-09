@@ -31,6 +31,7 @@ And please visit recent post on my profile https://leetcode.com/Shellhead/ for s
 |380|[ Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/)|[C++](./solutions/380.%20Insert%20Delete%20GetRandom%20O(1).cpp)|40 ms|
 |503|[ Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii/)|[C++](./solutions/503.%20Next%20Greater%20Element%20II.cpp)|36 ms|
 |556|[ Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)|[C++](./solutions/556.%20Next%20Greater%20Element%20III.cpp)|0 ms|
+|560|[ Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/)|[C++](./solutions/560.%20Subarray%20Sum%20Equals%20K.cpp)|28 ms|
 |623|[ Add One Row to Tree](https://leetcode.com/problems/add-one-row-to-tree/)|[C++](./solutions/623.%20Add%20One%20Row%20to%20Tree.cpp)|16 ms|
 |671|[ Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/)|[C++](./solutions/671.%20Second%20Minimum%20Node%20In%20a%20Binary%20Tree.cpp)|0 ms|
 |680|[ Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)|[C++](./solutions/680.%20Valid%20Palindrome%20II.cpp)|80 ms|
