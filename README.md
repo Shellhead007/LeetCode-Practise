@@ -40,6 +40,7 @@ And please visit recent post on my profile https://leetcode.com/Shellhead/ for s
 |705|[ Design HashSet](https://leetcode.com/problems/design-hashset/)|[C++](./solutions/705.%20Design%20HashSet.cpp)|88 ms|
 |706|[ Design HashMap](https://leetcode.com/problems/design-hashmap/)|[C++](./solutions/706.%20Design%20HashMap.cpp)|184 ms|
 |767|[ Reorganize String](https://leetcode.com/problems/reorganize-string/)|[C++](./solutions/767.%20Reorganize%20String.cpp)|0 ms|
+|785|[ Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/)|[Java](./solutions/785.%20Is%20Graph%20Bipartite%3F.java)|0 ms|
 |859|[ Buddy Strings](https://leetcode.com/problems/buddy-strings/)|[C++](./solutions/859.%20Buddy%20Strings.cpp)|4 ms|
 |863|[ All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/)|[C++](./solutions/863.%20All%20Nodes%20Distance%20K%20in%20Binary%20Tree.cpp)|4 ms|
 |890|[ Find and Replace Pattern](https://leetcode.com/problems/find-and-replace-pattern/)|[C++](./solutions/890.%20Find%20and%20Replace%20Pattern.cpp)|4 ms|
