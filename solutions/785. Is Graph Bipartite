@@ -1,0 +1,27 @@
+class Solution {
+    public boolean isBipartite(int[][] graph) {
+        int n = graph.length;
+        int[] node_color = new int[n];
+        for(int i=0;i<n;i++)
+            node_color[i] = 0;
+        for(int i=0;i<n;i++) {
+            if(node_color[i] == 0) {
+                if(!dfs(graph,node_color,i,1))
+                    return false;
+            }
+        }
+        return true;
+    }
+    public boolean dfs(int[][] graph,int[] node_color,int node,int color) {
+        if(node_color[node] != 0 && node_color[node] != color)
+            return false;
+        if(node_color[node] == color)
+            return true;
+        node_color[node] = color;
+        for(int i = 0;i<graph[node].length;i++) {
+            if(!dfs(graph,node_color,graph[node][i],-color))
+                return false;
+        }
+        return true;
+    }
+}
