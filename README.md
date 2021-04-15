@@ -14,6 +14,7 @@ And please visit recent post on my profile https://leetcode.com/Shellhead/ for s
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|20 ms|
 |82|[ Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)|[C++](./solutions/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.cpp)|4 ms|
 |83|[ Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)|[C++](./solutions/83.%20Remove%20Duplicates%20from%20Sorted%20List.cpp)|14 ms|
+|86|[ Partition List](https://leetcode.com/problems/partition-list/)|[C++](./solutions/86.%20Partition%20List.cpp)|0 ms|
 |98|[ Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[C++](./solutions/98.%20Validate%20Binary%20Search%20Tree.cpp)|12 ms|
 |99|[ Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/)|[C++](./solutions/99.%20Recover%20Binary%20Search%20Tree.cpp)|44 ms|
 |103|[ Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|[C++](./solutions/103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.cpp)|0 ms|
