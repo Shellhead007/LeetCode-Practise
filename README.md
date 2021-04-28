@@ -9,6 +9,7 @@ And please visit recent post on my profile https://leetcode.com/Shellhead/ for s
 |19|[ Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./solutions/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.java)|0 ms|
 |29|[ Divide Two Integers](https://leetcode.com/problems/divide-two-integers/)|[Java](./solutions/29.%20Divide%20Two%20Integers.java)|2 ms|
 |33|[ Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[C++](./solutions/33.%20Search%20in%20Rotated%20Sorted%20Array.cpp)|4 ms|
+|34|[ Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)|[C++](./solutions/34.%20Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.cpp)|0 ms|
 |37|[ Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|[C++](./solutions/37.%20Sudoku%20Solver.cpp)|20 ms|
 |49|[ Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[C++](./solutions/49.%20Group%20Anagrams.cpp)|40 ms|
 |56|[ Merge Intervals](https://leetcode.com/problems/merge-intervals/)|[C++](./solutions/56.%20Merge%20Intervals.cpp)|20 ms|
